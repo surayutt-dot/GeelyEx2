@@ -1,0 +1,17 @@
+{
+  "name": "geely-e2-ev-charging-tracker",
+  "version": "1.0.0",
+  "description": "Geely E2 EV Charging Expense Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ev",
+    "geely-e2",
+    "geely-ex2",
+    "charging-tracker"
+  ],
+  "author": "",
+  "license": "ISC"
+}
